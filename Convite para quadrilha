@@ -1,6 +1,3 @@
-
-`index.html`
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -85,7 +82,7 @@
 </style>
 </head>
 <body>
-  <a href="#" class="invite-link" id="inviteLink">💃 Convite para ser minha parceira na Quadrilha 💃</a>
+  <a href="#" class="invite-link" id="inviteLink">💃 Convite para Quadrilha 💃</a>
 
   <div id="invitationContainer" class="invitation-container" style="display:none;">
     <div id="invitationText" class="invitation-text"></div>
@@ -139,7 +136,7 @@ Seu parceiro de dança 🕺
       inviteLink.textContent = '❌ Fechar Convite';
     } else {
       invitationContainer.style.display = 'none';
-      inviteLink.textContent = '💃 Convite para Baile de Quadrilha 💃';
+      inviteLink.textContent = '💃 Convite para Quadrilha 💃';
       invitationText.textContent = '';
       responseButtons.style.display = 'flex';
     }
@@ -157,5 +154,3 @@ Seu parceiro de dança 🕺
 </script>
 </body>
 </html>
-
-```
