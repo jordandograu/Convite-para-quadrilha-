@@ -85,7 +85,7 @@
 </style>
 </head>
 <body>
-  <a href="#" class="invite-link" id="inviteLink">💃 Convite para Baile de Quadrilha 💃</a>
+  <a href="#" class="invite-link" id="inviteLink">💃 Convite para ser minha parceira na Quadrilha 💃</a>
 
   <div id="invitationContainer" class="invitation-container" style="display:none;">
     <div id="invitationText" class="invitation-text"></div>
